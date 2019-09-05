@@ -8,9 +8,9 @@
 <link href="DolapoMs.js" rel="stylesheet">
 </head>
 <body>
-  <div id="header">
+  <div> <id="header">
 <h1>
- <center><img src="https://res.cloudinary.com/dlapsie/image/upload/c_scale,w_361/v1567078539/dolapo_mosuro_3_uivpcp.png"></div>
+ <center><img src="https://res.cloudinary.com/dlapsie/image/upload/c_scale,w_361/v1567078539/dolapo_mosuro_3_uivpcp.png">
 <center><th><b>MOSURO DOLAPO</b></th>
 
    <br>Mobile: +2348169106184
@@ -20,7 +20,7 @@
 <!-- Education starts --->
   <div>
     <h3 id="education">EDUCATION</h3>
-    <p id="bsc">B.Sc. B. A. English Language.</b> <br><b><i>Lagos State University, Ojo. Lagos state</i></b></p>
+    <p id="bsc"></b>B.Sc. B. A. English Language.</b><br><b><i>Lagos State University, Ojo. Lagos state</i></p>
   </div>
 <!-- Education ends --->
 <p>
@@ -57,7 +57,7 @@
                     <td>Production </td>                  
                     <td>FRCN</td>
                 </tr>
-</table>
+</table></style="width:50px>
 <body>
  <!-- Professional Profile starts --->
   <div>
