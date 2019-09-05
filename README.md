@@ -8,7 +8,7 @@
 <link href="DolapoMs.js" rel="stylesheet">
 </head>
 <body>
-  <div id="header">
+ <div> <id="header">
 <h1>
  <center><img src="https://res.cloudinary.com/dlapsie/image/upload/c_scale,w_361/v1567078539/dolapo_mosuro_3_uivpcp.png"></div>
 <center><th><b>MOSURO DOLAPO</b></th>
@@ -58,6 +58,7 @@
                     <td>FRCN</td>
                 </tr>
 </table>
+</style>
 <body>
  <!-- Professional Profile starts --->
   <div>
@@ -74,7 +75,7 @@
 <!-- OTHER EXPERIENCES starts --->        
 
 <!-- Skills starts --->
-  <div>
+  
     <p id="skills"><strong>Key skills gained include:</strong> <br>
     	<ul>
     		<li>Analytical and conceptual thinking, with a meticulous approach to managing workloads.</li>
@@ -83,7 +84,6 @@
     		<li>Accomplished communication skills, both written and verbal.</li>
     		<li>Computer Application Proficiency (MS Office Word, Excel, Photoshop, HTML and CSS).</li>
     	</ul>
-  </div>
 <!-- Skills ends --->
  <br>
  <!-- References starts --->
@@ -119,4 +119,3 @@ Copyright  2019
         
 </body>
 <script type="text/javascript" src="DolapoMs.js"></script>
-</html>
