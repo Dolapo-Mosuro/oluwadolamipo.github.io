@@ -8,7 +8,7 @@
 <link href="DolapoMs.js" rel="stylesheet">
 </head>
 <body>
-  <div id="header">
+  <div> <id="header">
 <h1>
  <center><img src="https://res.cloudinary.com/dlapsie/image/upload/c_scale,w_361/v1567078539/dolapo_mosuro_3_uivpcp.png"></div>
 <center><th><b>MOSURO DOLAPO</b></th>
